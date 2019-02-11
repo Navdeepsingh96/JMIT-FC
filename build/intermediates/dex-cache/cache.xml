@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/navdeep/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_7e35ba582aaa4b4ecbdad218b4d3e9f3a922c40d/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e8f2691c2938c1ee1cd9d10c42960aa5ac987702">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3363c9ea759f330fafe3b84f9f746896c973eb5/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_8fb41031354cf5660ece9f1693409c732f0dca58/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_7d977d5f5718a0d02befb8f9f4c75393f2bd535d/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_323924ba89dd43606350c90cf8164f24e2750da1/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5c432e379fcab641fc0167cc06095e1c8b7f172a">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_04251713878a762dad791ff7def98f4e11e7858e/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_2c63b9da8037f4e79286fb6bf8a530a4a2766fe8/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_1a6bd910f2a87c95825ed0fc22ade857b9fd8bcc/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_34bc3054e70a65af7b9054f6771d7115751f89a4/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_4c93e9cd70216261954476d0df1a683e2702eb7e/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_ca7ea92ee14a4b6b4d3b064f745102e635238fcd/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.0_289332387c55d21464bd44ef56b8af2c1f1b6d9a/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_92e5e58822445ff3bca759d1e84939cd5cfe46f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_cd232d3d2389703e30ec91062f3f4feee8aab2dd/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_073b09133a4d9ba39585ee23221f51024dfda924/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_f66ff07f7ab4315b61042a55813170bd9ca43d6c/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e4923fd8441d18bd07c237bccabea4ed051a7aa3/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.0_82e99d98a1a3e8d924a95aebe4a8d920a72699a5/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_759a7094593d9ea4eaf165d280a24e63ca62cfc6/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_c6d856b47bcc13c60c81f2a2bbf01b72a707a63d/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_6c87446bff4d86f6c95e20d41da35f155149b3eb/classes.dex" />
+    </item>
+    <item
+        jar="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/navdeep/AndroidStudioProjects/JMITFC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_7b27b0f26e00629d1a91bda25c1a86b2f4a2ba69/classes.dex" />
+    </item>
+
+</items>
